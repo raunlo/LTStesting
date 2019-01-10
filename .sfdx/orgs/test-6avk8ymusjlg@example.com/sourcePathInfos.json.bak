@@ -1,0 +1,814 @@
+[
+    [
+        "C:\\Users\\raunol\\testing\\force-app",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547109614293,
+            "changeTime": 1547109614293,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547109614293,
+            "changeTime": 1547109981246,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547109992702,
+            "changeTime": 1547109992702,
+            "contentHash": "156bbc6b81bd21c2cc4d7f6928839c41ba346793",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547111406529,
+            "changeTime": 1547111406529,
+            "isWorkspace": false,
+            "contentHash": "1686785a821d27d1d817212e624331196f19b260"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547110168481,
+            "changeTime": 1547110168481,
+            "contentHash": "9d502e78c8372762277941aaefa3d053bdb13a17",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingapp.app",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingapp.app",
+            "isDirectory": false,
+            "size": 104,
+            "modifiedTime": 1547110562458,
+            "changeTime": 1547110261927,
+            "contentHash": "08781f4246633efeccd48672916888f836f73a2a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingapp.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingapp.app-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1547110168476,
+            "changeTime": 1547110168476,
+            "contentHash": "accc81f346c3abd880ce23ccc8c51c5612019593",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingapp.auradoc",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingapp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1547110168481,
+            "changeTime": 1547110168481,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingapp.css",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingapp.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1547110168478,
+            "changeTime": 1547110168478,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingapp.svg",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingapp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1547110168480,
+            "changeTime": 1547110168480,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingappController.js",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingappController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1547110168477,
+            "changeTime": 1547110168477,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingappHelper.js",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingappHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1547110168478,
+            "changeTime": 1547110168478,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingappRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\testingapp\\testingappRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1547110168479,
+            "changeTime": 1547110168479,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547110106765,
+            "changeTime": 1547110106765,
+            "contentHash": "dd8e31c2eaeca449c159a751fd38dd01fcc462a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\staticresources\\myTestSuite.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\staticresources\\myTestSuite.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2867,
+            "modifiedTime": 1547112000883,
+            "changeTime": 1547112000883,
+            "isWorkspace": false,
+            "contentHash": "80cd70e5baae1542507f871d065748f252cad84a"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\staticresources\\myTestSuite.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\staticresources\\myTestSuite.resource-meta.xml",
+            "isDirectory": false,
+            "size": 222,
+            "modifiedTime": 1547110106765,
+            "changeTime": 1547110106831,
+            "contentHash": "829dce64c7d3d86d65ec6475722af62dc290d786",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547110226217,
+            "changeTime": 1547110226217,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547110423786,
+            "changeTime": 1547110423786,
+            "contentHash": "c774611c339dacc333dfe5817b823c89cdd68119",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.auradoc",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1547110423785,
+            "changeTime": 1547110423785,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp",
+            "isDirectory": false,
+            "size": 81,
+            "modifiedTime": 1547110560106,
+            "changeTime": 1547110560106,
+            "contentHash": "66fecba3177c80757be6a8aba679761e27196458",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1547110423777,
+            "changeTime": 1547110423777,
+            "contentHash": "b95c663ad69c0811d4dafdf3e904ab8955ca9403",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.css",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1547110423782,
+            "changeTime": 1547110423782,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.design",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1547110423786,
+            "changeTime": 1547110423786,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.svg",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorld.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1547110423784,
+            "changeTime": 1547110423784,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorldController.js",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorldController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1547110423779,
+            "changeTime": 1547110423779,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorldHelper.js",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorldHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1547110423781,
+            "changeTime": 1547110423781,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorldRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\helloWorld\\helloWorldRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1547110423783,
+            "changeTime": 1547110423783,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547110771189,
+            "changeTime": 1547110771189,
+            "contentHash": "1b40dc6064d16d313d4e5e1e8421c6c5336c99ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBinding.auradoc",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBinding.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1547110771188,
+            "changeTime": 1547110771188,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBinding.cmp",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBinding.cmp",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1547110804644,
+            "changeTime": 1547110804644,
+            "contentHash": "81591222c6153f822faaf212492c42df23aaad1b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBinding.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBinding.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 256,
+            "modifiedTime": 1547110771182,
+            "changeTime": 1547110771182,
+            "contentHash": "b9d2ee78a79a547a2c4fd4886a2cc172cc0c3985",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBinding.css",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBinding.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1547110771185,
+            "changeTime": 1547110771185,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBinding.design",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBinding.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1547110771189,
+            "changeTime": 1547110771189,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBinding.svg",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBinding.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1547110771187,
+            "changeTime": 1547110771187,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBindingController.js",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBindingController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1547110771183,
+            "changeTime": 1547110771183,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBindingHelper.js",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBindingHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1547110771184,
+            "changeTime": 1547110771184,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBindingRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithDataBinding\\componentWithDataBindingRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1547110771186,
+            "changeTime": 1547110771186,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547110942163,
+            "changeTime": 1547110942163,
+            "contentHash": "3603935f1ccfc06247f8cfc9497a220bde65fcf3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethod.auradoc",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethod.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1547110942163,
+            "changeTime": 1547110942163,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethod.cmp",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethod.cmp",
+            "isDirectory": false,
+            "size": 159,
+            "modifiedTime": 1547110992091,
+            "changeTime": 1547110992091,
+            "contentHash": "4497cd291dd6515e5fbd7cd894cc3dfc483f4526",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethod.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethod.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 251,
+            "modifiedTime": 1547110942157,
+            "changeTime": 1547110942157,
+            "contentHash": "dd4ecd1e21ef06926b851e6fb39125ea813e6b80",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethod.css",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethod.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1547110942160,
+            "changeTime": 1547110942160,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethod.design",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethod.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1547110942164,
+            "changeTime": 1547110942164,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethod.svg",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethod.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1547110942162,
+            "changeTime": 1547110942162,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethodController.js",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethodController.js",
+            "isDirectory": false,
+            "size": 217,
+            "modifiedTime": 1547111078476,
+            "changeTime": 1547111078476,
+            "contentHash": "7d3ff05ce032d1cf86c3772534857f7c4a6e6bdc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethodHelper.js",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethodHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1547110942159,
+            "changeTime": 1547110942159,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethodRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentWithMethod\\componentWithMethodRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1547110942161,
+            "changeTime": 1547110942161,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547111406545,
+            "changeTime": 1547111406545,
+            "contentHash": "bb4b5122d91d6473f3d416e7ce9319943aab33e6"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\myAppEvent",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\myAppEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1547111282771,
+            "changeTime": 1547111282771,
+            "contentHash": "2c7afdda8ba3c2fce9e7feab2f7605f11f3e0196"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEvent.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEvent.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1547111406545,
+            "changeTime": 1547111406545,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEvent.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEvent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 158,
+            "modifiedTime": 1547111929327,
+            "changeTime": 1547111929327,
+            "contentHash": "7b450c84ca07cec99359303b8a77f1c62f40b9a1"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEvent.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEvent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 260,
+            "modifiedTime": 1547111406539,
+            "changeTime": 1547111406539,
+            "contentHash": "3af6c1d4306b6f14b063bbe3944aad2f2a9481aa"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEvent.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEvent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1547111406542,
+            "changeTime": 1547111406542,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEvent.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEvent.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1547111406545,
+            "changeTime": 1547111406545,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEvent.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEvent.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1547111406544,
+            "changeTime": 1547111406544,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEventController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEventController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 142,
+            "modifiedTime": 1547111925329,
+            "changeTime": 1547111925329,
+            "contentHash": "d47c904a7669f0ea9596b320db02026a5f34f031"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEventHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEventHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1547111406541,
+            "changeTime": 1547111406541,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEventRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\componentListeningToAppEvent\\componentListeningToAppEventRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1547111406543,
+            "changeTime": 1547111406543,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\myAppEvent\\myAppEvent.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\myAppEvent\\myAppEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 99,
+            "modifiedTime": 1547111844118,
+            "changeTime": 1547111844118,
+            "contentHash": "767a0a75ae25033d6a8e5dde0b4a3c87e00745f9"
+        }
+    ],
+    [
+        "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\myAppEvent\\myAppEvent.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\raunol\\testing\\force-app\\main\\default\\aura\\myAppEvent\\myAppEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 238,
+            "modifiedTime": 1547111282771,
+            "changeTime": 1547111282771,
+            "contentHash": "2eb7c881ab7ad1cedd4daf03dffc5281e3cf569a"
+        }
+    ]
+]
